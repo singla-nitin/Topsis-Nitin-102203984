@@ -1,0 +1,27 @@
+# Python build and distribution folders
+build/
+dist/
+*.egg-info/
+
+# Python virtual environment folders
+venv/
+ENV/
+.env/
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+
+# IDE-specific files and folders
+.vscode/
+.idea/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
